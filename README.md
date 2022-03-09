@@ -1,3 +1,3 @@
 # hello
 text for software engineering
-author : joo min soo
+author : joo min su
